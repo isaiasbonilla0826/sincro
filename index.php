@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <?php echo "act1" ?>
 </body>
 </html>
